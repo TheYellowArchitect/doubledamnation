@@ -5,7 +5,7 @@ Exclusively Multiplayer Co-Op Metroidvania, with the [butter-smooth movement of 
 Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation/)
 	
 ### Empty Source Code?
-I will upload everything right after release (I am crunching right now), and also post non-Steam-integrated build, here on [Github](https://github.com/TheYellowArchitect/doubledamnation/releases).
+I will upload everything right after release (I am crunching right now), and also post a build without Steam integration, here on [Github](https://github.com/TheYellowArchitect/doubledamnation/releases).
 	
 ### Building from Source
 1. Download&Install Unity 2018.1.1f1 (Windows)
