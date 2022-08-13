@@ -27,8 +27,7 @@ If you are new to the project, I suggest you avoid the below classes, because th
 ### [Donations](https://theyellowarchitect.com/donate#title)
 
 ### Code-License
-The code I wrote is licensed under [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/).<br>
-This code can be located under the folders `Assets/Co-Op Prototype/Scripts` and `Assets/Editor/Tools` and is always of filetype `.cs`<br>
+The code I wrote is licensed under [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/), and is located under the folders `Assets/Co-Op Prototype/Scripts` and `Assets/Editor/Tools` and is always of filetype `.cs`<br>
 There may be some code I did not write in the above locations, but be ensured that whichever code I did not write myself, the proper author is credited (usually at the first lines)
 
 ### Asset-License
