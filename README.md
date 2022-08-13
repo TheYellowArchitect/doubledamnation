@@ -17,7 +17,7 @@ I will upload everything right after release (I am crunching right now), and als
 ### Contributing
 I welcome all pull requests that fix bugs, and refactor ugly parts of the code.
 		
-If you are new to the project, I suggest you avoid the following classes, because they are definitely the most horrible and unreadable in the entire codebase. Even I who wrote them, am having difficulties with them, because they are bloated. That's what happens when you write big systems without even knowing the basics.
+If you are new to the project, I suggest you avoid the below classes, because they are by far the most horrible and unreadable in the entire codebase. Even I who wrote them, am having difficulties with them, because they are bloated. That's what happens when you write big systems without even knowing the basics.
 		
 - `EnemyBehaviour`
 - `WarriorMovement`
