@@ -5,7 +5,7 @@ Exclusively Multiplayer Co-Op Metroidvania, with the [butter-smooth movement of 
 Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation/)
 	
 ### Empty Source Code?
-I will upload everything right after release (I am crunching right now), and also post non-Steam-integrated build, on [Github](https://github.com/TheYellowArchitect/doubledamnation/releases).
+I will upload everything right after release (I am crunching right now), and also post non-Steam-integrated build, here on [Github](https://github.com/TheYellowArchitect/doubledamnation/releases).
 	
 ### Building from Source
 1. Download&Install Unity 2018.1.1f1 (Windows)
@@ -25,21 +25,23 @@ If you are new to the project, I suggest you avoid the following classes, becaus
 - `MultipleTargetCamera`
 
 ### [Donations](https://theyellowarchitect.com/donate#title)
-			
-### License
+
+### Code-License
+The code I wrote is licensed under [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/).<br>
+This code can be located under the folders `Assets/Co-Op Prototype/Scripts` and `Assets/Editor/Tools` and is always of filetype `.cs`<br>
+There may be some code I did not write in the above locations, but be ensured that whichever code I did not write myself, the proper author is credited (usually at the first lines)
+
+### Asset-License
 The tl;dr is that you can use most assets without permission **as long you don't monetize off them in ANY way.**
 So for example, using them for a prototype is ok as long you dont profit off it.
 But if you use the sprites in a game where you sell microtransactions, it's illegal.
 If you want to be certain, read below.
+
+- The sprites and animations to Player1's character (Fool/Fisherman), were made by [Caitlin G Cooke](https://caitlingcooke.art/) and [me](theyellowarchitect.com/), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
+- The sprites and animations of all monsters, were made by [Zhelisko](https://zheliskos.artstation.com/) and [me](theyellowarchitect.com), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
+- The sprites and animations of Player2's character (Fiend/Friend), were made by [Zhelisko](https://zheliskos.artstation.com/), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
+- The [music](https://www.youtube.com/playlist?list=PLLvViE4qZfoMaayjJk9PRE98np7SwVsNF) is composed and owned by [Kerry Joiner](https://www.youtube.com/watch?v=zEvANt6wRRU), if you wish to use it, ask him for permission.
+- The IP of Double Damnation (e.g. Fool&Fiend/Fisherman&Friend, Darkwind) are owned by [me](theyellowarchitect.com).
+- Most of the sound effects originate from https://freesound.org
 		
-The code I wrote is [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/)
-This code can be located under the folders `Assets/Co-Op Prototype/Scripts` and `Assets/Editor/Tools` and is always of filetype .cs
-There may be some code I did not write in the above locations, but be ensured that whichever code I did not write myself, the proper author is credited (usually at the top)
-The sprites and animations to Player1's character (Fool/Fisherman), were made by [Caitlin G Cooke](https://caitlingcooke.art/) and [me](theyellowarchitect.com/), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
-The sprites and animations of all monsters, were made by [Zhelisko](https://zheliskos.artstation.com/) and [me](theyellowarchitect.com), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
-The sprites and animations of Player2's character (Fiend/Friend), were made by [Zhelisko](https://zheliskos.artstation.com/), under the license of [Creative Commons BY-SA v4.0](https://creativecommons.org/licenses/by/4.0/)
-The [music](https://www.youtube.com/playlist?list=PLLvViE4qZfoMaayjJk9PRE98np7SwVsNF) is composed and owned by [Kerry Joiner](https://www.youtube.com/watch?v=zEvANt6wRRU), if you wish to use it, ask him for permission.
-The IP of Double Damnation (e.g. Fool&Fiend/Fisherman&Friend, Darkwind) are owned by [me](theyellowarchitect.com).
-Most of the sound effects originate from https://freesound.org
-		
-If what you seek isn't here, [contact me](https://theyellowarchitect.com/contact#title) , and I will reply as fast as I can. I don't want any legal issues, since this game is free at its core, with no monetization planned out of anything from it, but I am willing to fight against illegitimate/unwarranted legal action.
+If what you seek isn't here, [contact me](https://theyellowarchitect.com/contact#title) , and I will reply. I do not wish any legal issues, since this game is free at its core, with no monetization planned out of anything from it, but I am willing to fight against illegitimate/unwarranted legal action.
