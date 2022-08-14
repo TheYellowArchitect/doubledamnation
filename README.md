@@ -1,6 +1,6 @@
 # Double Damnation
 
-Exclusively Multiplayer Co-Op Metroidvania, with the [butter-smooth movement of Smash Bros Melee](https://www.youtube.com/watch?v=JpOaQxrsaqI).
+Exclusively Multiplayer Co-Op Metroidvania, with the [butter-smooth movement of Smash Bros Melee](https://www.youtube.com/watch?v=JpOaQxrsaqI&list=PL6ko1irv8SJ_n0phlLOCi8hrbJXRDS6ul&index=1).
 	
 Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation/)
 	
