@@ -8,11 +8,12 @@ Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation
 I will upload everything right after release (I am crunching right now), and also post a build without Steam integration, here on [Github](https://github.com/TheYellowArchitect/doubledamnation/releases).
 	
 ### Building from Source
-1. Download&Install Unity 2018.1.1f1 (Windows) [[1]](https://download.unity3d.com/download_unity/b8cbb5de9840/Windows64EditorInstaller/UnitySetup64-2018.1.1f1.exe) [[2]](https://unity3d.com/get-unity/download?thank-you=update&download_nid=51155&os=Win)
-2. `git clone https://github.com/TheYellowArchitect/doubledamnation`
-3. Open Unity 2018.1.1f1 and open the folder you downloaded^
-4. Open `SteamManager.cs` and remove the '!' to build for non-Steam (aka local build)
-5. Build
+1. Make sure you have [large file support](https://git-lfs.github.com/) installed for git
+2. Download&Install Unity 2018.1.1f1 (Windows) [[1]](https://download.unity3d.com/download_unity/b8cbb5de9840/Windows64EditorInstaller/UnitySetup64-2018.1.1f1.exe) [[2]](https://unity3d.com/get-unity/download?thank-you=update&download_nid=51155&os=Win)
+3. Do not download as zip (may break images) but clone the repository<br>`git clone https://github.com/TheYellowArchitect/doubledamnation`
+4. Open Unity 2018.1.1f1 and open the folder you downloaded^
+5. Open `SteamManager.cs` and remove the '!' to build for non-Steam (aka local build)
+6. Build
 
 ### Contributing
 I welcome all pull requests that fix bugs, and refactor ugly parts of the code.
