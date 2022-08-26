@@ -1,0 +1,4 @@
+If the version updates to latest, it can use ShaderGraph.
+Then, git gut, and implement this: https://gamedevelopment.tutsplus.com/tutorials/how-to-use-a-shader-to-dynamically-swap-a-sprites-colors--cms-25129
+With it, also replace the monsters.
+It saves so much space! And best of all? Users can make their own color palettes, instead of going into each sprite and manually recoloring it lmao. (not to mention that u have to replace all sprite placements for every single frame)

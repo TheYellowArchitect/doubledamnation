@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb4fbcd39f1db66418c994c6863178b4, type: 3}
+  m_Name: LevelContainer
+  m_EditorClassIdentifier: 
+  Level1Animator: {fileID: 22100000, guid: d0eac826318eba44596b479cae187d1a, type: 2}
+  Level2Animator: {fileID: 22100000, guid: 9937a45b97398be4ea02cb817282c0c9, type: 2}
+  Level3Animator: {fileID: 22100000, guid: ad3eeeb6805bdce49b5ae423d617e88d, type: 2}

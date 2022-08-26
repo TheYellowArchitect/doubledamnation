@@ -1,0 +1,19 @@
+1 -> Level0Start
+2 -> Level0End
+
+3 -> Level1Start
+4 -> Level1End
+
+5 -> Level2Start
+6 -> Level2End
+
+7 -> Level3Start
+8 -> Level3End
+
+9 -> Level4Start
+10-> Level4End
+
+11-> Final Challenge
+
+12 -> Exiting Tutorial, entering Level Editor
+13 -> Level Editor

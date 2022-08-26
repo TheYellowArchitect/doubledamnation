@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad6304ccb15f4a44ea05de6a9e8489da, type: 3}
+  m_Name: MidCutscenesDialogues
+  m_EditorClassIdentifier: 
+  totalDialogues:
+  - {fileID: 11400000, guid: cb53acd209941bc45bc9c76b411339c7, type: 2}
+  - {fileID: 11400000, guid: 3a9522d0d0dec3d4e99082c785138454, type: 2}
+  - {fileID: 11400000, guid: 22da469af4a970c47997cb8dfccf67d5, type: 2}
+  - {fileID: 11400000, guid: 8247067b7ae94ba4a9fbc2e4b48b4a9a, type: 2}
+  - {fileID: 11400000, guid: eb2bde366a4d44a459ef5e8886701a68, type: 2}
+  - {fileID: 11400000, guid: 9fe850a174296d144ac2341e4f8e5cc9, type: 2}
+  - {fileID: 11400000, guid: 47f1026dfe13ecc46b7aefb08af1660a, type: 2}
+  - {fileID: 11400000, guid: 31465f7f3c8de8f4b80e07bb59beaf77, type: 2}
+  - {fileID: 11400000, guid: fc25027a0d517514ca646cc172462037, type: 2}
+  - {fileID: 11400000, guid: 2615b6b8d1c3ee24189207b605fedfb5, type: 2}
+  - {fileID: 11400000, guid: 0170c70938d581240969025decfdade2, type: 2}
+  - {fileID: 11400000, guid: 3e9c077745b40ce4eaffe2e476c7ded5, type: 2}
+  - {fileID: 11400000, guid: 032feaf7da5b3d346a8f6a022707df9d, type: 2}
+  - {fileID: 11400000, guid: acc2a364dfc5f694082b2d541dd5514d, type: 2}
+  - {fileID: 11400000, guid: 1beeffffc80c3b84491a2c6d020b1079, type: 2}
+  - {fileID: 11400000, guid: da6f3766fc98d1743a2d402eddec072c, type: 2}
+  - {fileID: 11400000, guid: 38cae8ff840fc8440be2f6e68b519788, type: 2}
+  - {fileID: 11400000, guid: cfca39b5f3aaebb44aea84e3572a30f2, type: 2}
+  - {fileID: 11400000, guid: 6e60a2967775adb4283d37d98135263d, type: 2}
+  - {fileID: 11400000, guid: db9b813010cd8ec438d51b89286cebd7, type: 2}
+  - {fileID: 11400000, guid: 99afcd8d9b3b69149b1abf524bf5dfc9, type: 2}

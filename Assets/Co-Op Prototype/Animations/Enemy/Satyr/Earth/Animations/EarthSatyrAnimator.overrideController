@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EarthSatyrAnimator
+  m_Controller: {fileID: 9100000, guid: 24549d542ef1a1e4884c9d40295710f4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 28663d108326a46488093866c0db835d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 742cc7cde5b6b4b4090c2c903f88fe7a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40d264da04879bd49bb10c059246ee66, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3ac2ec0d3d585e6469498df28c4fd7f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 71faa56a37d38c745afd0aeafc2c96f0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 43dc66e00da5416449d2f0eb20a5ec4c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c3599287a5bd584bacab52eac41777e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a4eafee3cd00df34888147632e5a969f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59c22bbd53a6922499aa95c905c4648e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a4eafee3cd00df34888147632e5a969f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 17555ac8933b0204a99c4b2c4ef44c96, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e72a3816f5d7274da849abe8bba8584, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35e0a1ba8b08edc469286560f6fc769e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 703ac40d9b14b3546bf108db1cc5d370, type: 2}

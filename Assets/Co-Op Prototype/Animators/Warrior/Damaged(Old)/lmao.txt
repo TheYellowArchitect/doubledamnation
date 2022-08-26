@@ -1,0 +1,1 @@
+Back when the game was planned to be 3 hp for the entire level, and with each damage, the entire spritesheet changed to reflect that (bloody, to exxageratevely extreme bloody) so it would be super obvious on HP. Alas, the past should stay there.

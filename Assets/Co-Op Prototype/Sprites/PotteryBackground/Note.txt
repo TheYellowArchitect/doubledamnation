@@ -1,0 +1,2 @@
+The easiest solution is to simply slap those Individual pics on a panel, and ggwp.
+BUT, it "filters" all sprites, not only the background. And, at least in this case (because of horrible backgrounds lmao), I want the "filter" only for the background.

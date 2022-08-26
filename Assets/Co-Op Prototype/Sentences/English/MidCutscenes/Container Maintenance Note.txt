@@ -1,0 +1,2 @@
+	Normally should have a container for each misc category, like, ending, outofbounds, tutorial
+	Do make a container, if you really plan to put more shit.

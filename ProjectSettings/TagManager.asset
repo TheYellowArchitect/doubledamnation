@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Camera
+  - Canvas
+  - Coin
+  - Enemy
+  - Checkpoint
+  - Dialogue
+  - NewArea
+  - BossName
+  - BossTitle
+  - Cutscene
+  - CameraHolder
+  - Corpse
+  - HandleUI
+  - GradientText
+  - ToggleText
+  - FadeUI
+  - Hazard
+  - Ground
+  - Platform
+  - SpellPillar
+  - EnemyProjectile
+  - Fire
+  - TempHP
+  - SceneManager
+  - PlayerManaRing
+  - ManaManager
+  - Mage
+  - DiscordButton
+  - ArrowUI
+  - MusicTransition
+  - EnviromentVFX
+  - BackgroundManager
+  - IntroBoatPlayer
+  - IntroManager
+  - SpeedrunGate
+  - Lava
+  - DarkwindDistortionBackground
+  - Brazier
+  - FinalCamera
+  - FinalVisuals
+  - FinalCameraAnchor
+  - FinalPlayerDarkwindTrail
+  - Undefined
+  - IntroCamera
+  - SunbeamParents
+  - SunbeamTopTriggers
+  - PlayerRenderer
+  - PillarHolder
+  - PillarStorage
+  - CorpseStorage
+  - Pillar
+  - DesyncSphere
+  - TrailerCamera
+  - LevelEditorManager
+  - EventSystem
+  - LevelEditorLeftUI
+  - NetworkManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemy
+  - Bounce
+  - Platform
+  - PlatformCeilingCheck
+  - PlatformEnemyCheck
+  - PlayerExclusively
+  - Uninteractive
+  - GroundExclusively
+  - EnemyExclusively
+  - Hazard
+  - Ground&PlatformExclusively
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background++
+    uniqueID: 2440249411
+    locked: 0
+  - name: Background+
+    uniqueID: 3568989809
+    locked: 0
+  - name: Background
+    uniqueID: 397050335
+    locked: 0
+  - name: Playable
+    uniqueID: 2914390417
+    locked: 0
+  - name: Foreground
+    uniqueID: 3728438657
+    locked: 0

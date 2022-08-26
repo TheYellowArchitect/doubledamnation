@@ -1,0 +1,22 @@
+	The dialogues were made, and voiced, in the following order more or less:
+		Death/LevelCutscenes/PowerUp -> P2 voice, and P1 voice
+		A B I G break happened here, and generally, after it, I had different things in mind than the time I wrote this "story"
+		As in, the themes would be different. In short, I was in a different mindset, yet, I had to do the following:
+		
+			Re-voice-act **ALL** P2 voiceclips (fml, just thinking about it made me sleep more), because holy fuck the original was godawful, literally soul-less
+			Make interrupt P1/P2.
+			
+	Now, that means around ~60 dialogues...
+	At least, they are mostly oneliners!
+	But I had to not only get back in the voice of old (big fail, looking back at it), but I also had to write in the same "style". But I had expanded that "style"'s themes and concepts, yet I had to limit them. I think I did really good in InterruptP1/P2, in emulating my old self's style.
+
+	I know the themes aren't really important to the game, nor are they really great (muh subtle depth once you get it tho), 90% of the writing is fillershit after all, and references to other videogames xD
+	But still, it was hard to go back in an old mindset.
+
+		Note: OutOfBounds/Sun/Tutorial, were made almost a year after original dialogues were voiceacted and finished, many months after Interrupt, so going back was almost impossible.
+
+	Why am I writing this? 
+	Because the out of bounds and especially sun dialogues, are made with no respect to the themes or style of writing of old. 
+		Note 1: literally not canon, even though they "fit" lmao
+		Note 2: I'm so happy it's just 3 dialogues in total and easter-egg-tier so I had the freedom to do this at least, otherwise I would straight up delete them, also dont expect any deep value from them, they are just easter eggs
+	And I hope if you are a writer (book, videogame, even a videoblogpost lmao), you write complex thoughts or topics down, and ensure they are final before leaving them in the digital shelf. Because when you come back, surely, you may have new ideas to "improve" it with a... "future" perspective, but you also won't fill the open gaps with what you would have thought back then, and the end result will not be of the same mind. It's hard going back to a less informed mindset to keep consistency, and while interesting, I hope you understand what I'm saying and avoid my fate

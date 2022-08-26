@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/ActiveGameScene.unity
+    guid: 8bd9b8decde34b644934b7d17d442d4d
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/TutorialScene.unity
+    guid: 957bbd07c2bc724439c0065d1bb7fef3
+  - enabled: 0
+    path: Assets/Co-Op Prototype/Scenes/TestScene.unity
+    guid: 105d79b5ec43f22419c5dfbd9b49d2bd
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/FundamentalScene.unity
+    guid: 6821893b365591a4b809999645dd54be
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/EarthLevel.unity
+    guid: 0fbfb592b0a0e4242b054c917b1c5169
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/WindLevelBoss.unity
+    guid: 5f0c1287de8209748adf25fb855d1ee0
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/FireLevel.unity
+    guid: 767e485ac956e8a4fa53316fe77ab814
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/WindLevel.unity
+    guid: f98e44c814d5e0e469498fdc7571ee4d
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/FinalLevel.unity
+    guid: 0bbe49b9f5393af4bad5806c29a345a9
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/IntroScene.unity
+    guid: 6627d1b4924942744bfae58feb568b83
+  - enabled: 1
+    path: Assets/Co-Op Prototype/Scenes/LevelEditorScene.unity
+    guid: b778da849d5825d48a1f1a78552a2569
+  m_configObjects: {}

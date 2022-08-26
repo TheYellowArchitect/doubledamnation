@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d822ae429c69f4fb48ccc547ddb73b, type: 3}
+  m_Name: 48_0
+  m_EditorClassIdentifier: 
+  textToDisplay: The greatest war and so many skirmishes...
+  textFont: {fileID: 11400000, guid: 40cec183f058b2f4cb43c96f07f34d38, type: 2}
+  voiceClip: {fileID: 8300000, guid: 10d9002225f742644910c4330d649a3e, type: 3}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  selectedLanguage: 0
+  dialogueIndex: 48
+  lineIndex: 0

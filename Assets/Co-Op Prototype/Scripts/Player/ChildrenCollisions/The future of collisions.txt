@@ -1,0 +1,18 @@
+In the long-term, you should make the following layers:
+	Walkable (non-existent)
+	Bouncable(Existent)
+	
+	As to where/how to put them, probably do this:
+		GroundCollision -> WalkableExclusively (Ground, Walkable)
+			//^No Platform? hahahaha, your solution doesn't solve any problem lel
+			//As you will be forced to NOT put platform layer on WalkableExclusively
+			//And you will put Walkable on Level3 platforms to keep the same fun behaviour of them...
+			//Still doesn't make much logic, does it? At least however, it is extensible, but the naming and common sense is so bad!
+			//
+			//Perhaps... consider making platforms having 1 more collision... the very top to be walkable.
+			//Anyway, this is so fucked. You want Walkable behaviour from level 3 platforms, yet a platform is not walkable?...
+			//Gotta spend a week to fix this mess, until then, keep the layers as they are I guess lmao, just misname the future objects/features since they will work.
+		WallSlideCheck -> BouncableExclusively (Ground, Bouncable)
+		Level3Platforms -> Platform, Walkable (Having walkable gives the magnetic trait)
+	
+Also rename PlatformCeilingCheck to what it really is. PlatformExclusively

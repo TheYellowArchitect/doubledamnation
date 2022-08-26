@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 9b9f75066ea40b44b9b26677b723d9e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: windBarrierBlack_0
+    21300002: windBarrierBlack_1
+    21300004: windBarrierBlack_2
+    21300006: windBarrierBlack_3
+    21300008: windBarrierBlack_4
+    21300010: windBarrierBlack_5
+    21300012: windBarrierBlack_6
+    21300014: windBarrierBlack_7
+    21300016: windBarrierBlack_8
+    21300018: windBarrierBlack_9
+    21300020: windBarrierBlack_10
+    21300022: windBarrierBlack_11
+    21300024: windBarrierBlack_12
+    21300026: windBarrierBlack_13
+    21300028: windBarrierBlack_14
+    21300030: windBarrierBlack_15
+    21300032: windBarrierBlack_16
+    21300034: windBarrierBlack_17
+    21300036: windBarrierBlack_18
+    21300038: windBarrierBlack_19
+    21300040: windBarrierBlack_20
+    21300042: windBarrierTeal_0
+    21300044: windBarrierTeal_1
+    21300046: windBarrierTeal_2
+    21300048: windBarrierTeal_3
+    21300050: windBarrierTeal_4
+    21300052: windBarrierTeal_5
+    21300054: windBarrierTeal_6
+    21300056: windBarrierTeal_7
+    21300058: windBarrierTeal_8
+    21300060: windBarrierTeal_9
+    21300062: windBarrierTeal_10
+    21300064: windBarrierTeal_11
+    21300066: windBarrierTeal_12
+    21300068: windBarrierTeal_13
+    21300070: windBarrierTeal_14
+    21300072: windBarrierTeal_15
+    21300074: windBarrierTeal_16
+    21300076: windBarrierTeal_17
+    21300078: windBarrierTeal_18
+    21300080: windBarrierTeal_19
+    21300082: windBarrierTeal_20
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windBarrierTeal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 200
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b719f7fa46eecea4797984a3f6c4c2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 966
+        width: 196
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b30018a239944ea3d1148b4340962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 966
+        width: 206
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4878d4ec0f8ad42834af41507a4c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 966
+        width: 237
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f54a794b2cc974f9be1f731d0a5cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 966
+        width: 279
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282a348ae4755c48a9b55c4d6de9564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_5
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 966
+        width: 288
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41303b63c507434479a25500dee53054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 665
+        width: 289
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.63142854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca3df82de75ed740be9e3f375d1d446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 665
+        width: 290
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88cf1e8c0f8d7448368f5195e364c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 665
+        width: 293
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4859367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0786297a5ce784741991f79433fd568f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 665
+        width: 293
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4859367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef132d9104109948a218b51f3653cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_10
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 665
+        width: 299
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d30d887b786d843b346856c1eedd9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 342
+        width: 298
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cfa4399e636264194ad389403d199b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 296
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9503e6f8f679ebb46aaec240cf5f2598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 342
+        width: 295
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf22714ee5871ec41ba7a917dea46d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_14
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 342
+        width: 275
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd299d66cea9f6b49842adbaf57cea70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_15
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 342
+        width: 268
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0aed5d5413ad40b709eeb8e4fdf49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 271
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae416d7ed1b6264d92a898884baf79e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 271
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f65fcb2c66ec04cbcf682952753cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 271
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce00fc804b0d4143a20c9b13bfcf146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_19
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 271
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f5d846b9722f48bd94f922915ae8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windBarrierTeal_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 271
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c1dcba5f163a44988d8cc8ce63f106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 16968d3ec9ede2c4597b46ac76ecbf64
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

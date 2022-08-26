@@ -1,0 +1,3 @@
+Bless this asset https://assetstore.unity.com/packages/tools/sprite-management/easy-sprite-sheet-copy-27435
+That guy is a legend.
+As you can see from PlayerSpritePlacement.txt, I would "copy" all the frames by hand, exactly like I did for monsters. And oh man, wasn't that super boring and time-consuming. Easy saved me 1~2 days.

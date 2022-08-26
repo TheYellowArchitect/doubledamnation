@@ -1,0 +1,19 @@
+1 -> Tutorial (Souls = spellwords and power)
+2 -> Tutorial (Shift and jump)
+
+3->Sanctuary Up
+4->Sanctuary Down
+5->Sanctuary Right
+6->Sanctuary Left
+
+7->Tower of Crimson (Echoes?)
+
+//8+ Are for Misc, with the only difference being that every frame(Update), game checks if P1 or P2 is dialogue-ing// Or y'know not being retarded and calculating the total voiceClip length of a dialogue? ffs.
+
+8 -> Intro/Beginning of the game
+9 -> Vanilla P1 End
+10-> Vanilla P2 End
+11-> Insanity End
+12-> Pacifist End
+13-> Pacifist+Deathless End (inb4 ppl start calling this "Perfect Ending" smh)
+14-> Deathless Victory, keeping this here in case I decide to do sth spicy with this one.

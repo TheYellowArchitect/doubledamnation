@@ -1,0 +1,12 @@
+So, here I was, trying to salvage my meh/untrained voice, looking for the voice-filter of the Ancestor (from Darkest Dungeon, which btw if you haven't played it, do give it a try)
+
+I bent every effort towards the excavation and recovery of those long buried secrets, exhausting what remained of my little free time on endless browsing and "Next Page" buttons. At last, in the long-forgotten crags beneath the lowest foundations of the r/DarkestDungeon subreddit, I unearthed that damnable link and my salvation. Press (ctrl+)F for the Search Function.
+
+https://www.reddit.com/r/darkestdungeon/comments/7z0pse/i_am_very_interested_in_how_the_sound_effects_for/
+
+Bless "Simo-intensifies"!
+
+
+//I will definitely make a vid on how to achieve this effect since it's simple, but it makes pretty much every voice leagues better.
+//tl;dr(Audacity): Take the audio you want to "Preverb". Reverse -> Put an long-dead line -> Reverb -> Reverse
+//Perhaps make a script in the future for this?

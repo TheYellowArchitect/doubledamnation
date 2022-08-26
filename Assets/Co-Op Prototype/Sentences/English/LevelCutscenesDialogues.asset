@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad6304ccb15f4a44ea05de6a9e8489da, type: 3}
+  m_Name: LevelCutscenesDialogues
+  m_EditorClassIdentifier: 
+  totalDialogues:
+  - {fileID: 11400000, guid: 9b059fed2ce5ef84db3aa31123a8c865, type: 2}
+  - {fileID: 11400000, guid: 46f71a814af523149bed2d19ad779106, type: 2}
+  - {fileID: 11400000, guid: eea850e5ae7dfd141b353e8fc366f8f9, type: 2}
+  - {fileID: 11400000, guid: 678ea8e4606023e42aec7c8054ee203c, type: 2}
+  - {fileID: 11400000, guid: f5c38f6396183c14687f4f14f9fa7c61, type: 2}
+  - {fileID: 11400000, guid: 036f7c06ce51c5b4eb77a5c5ba7d5c55, type: 2}
+  - {fileID: 11400000, guid: 9add9ea4fa7b8e441b2b14dfee8d9b83, type: 2}
+  - {fileID: 11400000, guid: 052c20138f201c744bd7fe1acfdd7f75, type: 2}
+  - {fileID: 11400000, guid: ae25c2af3eca73e47bda5177bb1a1281, type: 2}
+  - {fileID: 11400000, guid: 248f88999478c5545acee554c5fe747f, type: 2}
+  - {fileID: 11400000, guid: fb5f4b3192420b64098a916540e3a3ad, type: 2}
+  - {fileID: 11400000, guid: 4be85ad5b5939304b80550f26e784e97, type: 2}
+  - {fileID: 11400000, guid: 7d7e8a41bd063994691a9e3f6b816bea, type: 2}

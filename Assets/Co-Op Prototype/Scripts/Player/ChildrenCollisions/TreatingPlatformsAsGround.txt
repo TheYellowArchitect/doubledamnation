@@ -1,0 +1,6 @@
+Having GroundCollision also interact with platforms, makes platforms more... "Magnetic"
+What the obvious results are:
+	1. When you jump vertically from downwards a platform, instead of fully ignoring it, when you reach its base, you will do another jump just by holding upwards.
+	2. When you pass through a platform at certain angle/position, with HIGH INFLUENCE, it reduces it to 0 more or less or changes angle a lot
+	3. It makes it easier to jump from it from any angle, the magnetic effect is real as it treats any part of the platform as jumpable instead of its surface.
+This kills high-level play imo (but helps it in other parts...)

@@ -1,0 +1,245 @@
+Player SpritePlacement (used for coloring, cuz rip shaders&shadergraph in my vers, do replace with shaders to win space + user easiness)
+I kinda cringe that a feature (shadergraph but bugged for 2018.1f1) is already out but i gotta waste an entire day doing braindead effort, rip efficiency.
+Nvm, random asset saved the day!
+=======================
+
+DashAttack2:
+		DashAttack1:
+				326 1245
+				636 566
+		DashAttack2:
+				1266 1246
+				568 564
+		DashAttack4:
+				3134 1243
+				658 560
+		DashAttackDiagonalDown:
+				172 371
+				661 524
+		DashAttackForward:
+				995 368
+				803 533
+		DashAttackDiagonalUp:
+				1933 358
+				834 535
+		DashAttackUp:
+				2950 72
+				683 1156
+
+
+DashMidairBack
+		DashMidairBack0:
+				34 354
+				539 552
+		DashMidairBack1:
+				761 293
+				452 674
+		DashMidairBack2:
+				1428 264
+				385 721
+				
+DashMidairForward
+		DashMidairForward0
+				31 235
+				645 542
+		DashMidairForward1
+				784 247
+				724 555
+		DashMidairForward2
+				1633 247
+				714 553
+
+
+DodgeBackward
+		DodgeBackward0
+				297 381
+				512 529
+		DodgeBackward1
+				1146 356
+				453 598
+				
+
+DodgeForward
+		DodgeForward0
+				118 310
+				687 577
+		DodgeForward1
+				991 308
+				688 579
+				
+
+Dodge2
+		WavedashBack
+				24 1700
+				677 653
+		WavedashForwards
+				951 1740
+				766 619
+		DodgerollBack
+				35 738
+				658 635
+		DodgerollForwards
+				1015 798
+				698 525
+				
+				
+FinalMidairAttack
+		DDown0
+				208 3249
+				755 606
+		DDown1
+				983 3259
+				724 594
+		DDown2
+				1726 3256
+				761 589
+		DDown3
+				2490 3283
+				788 544
+		Horizontal0
+				96 2552
+				751 579
+		Horizontal1
+				861 2552
+				787 572
+		Horizontal2
+				1649 2552
+				870 579
+		Horizontal3
+				2515 2554
+				855 551
+		DUp0
+				159 1858
+				727 588
+		DUp1
+				939 1858
+				766 581
+		DUp2
+				1777 1768
+				721 730
+		DUp3
+				2508 1636
+				826 876
+		Up0
+				113 1083
+				728 581
+		Up1
+				1071 759
+				335 941
+		Up2
+				1886 627
+				373 1143
+		Down0
+				63 139
+				725 606
+		Down1
+				1420 0
+				330 919
+		Down2
+				2695 127
+				393 795
+				
+				
+Float
+	92 372
+	766 554
+	
+	
+GroundAttack
+		GroundAttack1
+				33 1243
+				664 553
+		GroundAttack2
+				798 1242
+				632 549
+		GroundAttack3
+				1413 804
+				690 556
+		GroundAttack4
+				2029 1235
+				713 554
+		GroundAttackUp
+				22 109
+				555 1059
+		GroundAttackDiagonalUp
+				456 355
+				789 554
+		GroundAttackNormal
+				1099 137
+				857 554
+		GroundAttackDiagonalDown
+				2052 382
+				709 520
+		
+		
+GroundHit
+	GroundHit0
+			846 303
+			653 504
+	GroundHit1
+			1668 303
+			679 596
+	GroundHit2
+			49 307
+			625 592
+			
+			
+Hover1
+	623 364
+	730 496
+	
+
+Idle
+		Idle1
+				46 355
+				536 552
+		Idle2
+				630 243
+				583 507
+
+				
+Jump
+		Jump0
+				62 288
+				536 590
+		Jump1
+				628 283
+				594 561
+		Jump2
+				1252 469
+				639 611
+				
+MidairHit
+		MidairHit0
+				136 379
+				517 608
+		MidairHit1
+				953 367
+				668 487
+				
+
+Run
+		Run0
+				19 245
+				636 504
+		Run1
+				664 239
+				672 548
+		Run2
+				1371 243
+				664 517
+		Run3
+				2071 208
+				655 586
+		Run4
+				2789 239
+				653 510
+
+		
+WallSprites
+		Wallslide
+				103 212
+				602 731
+		Walljump
+				833 377
+				583 703

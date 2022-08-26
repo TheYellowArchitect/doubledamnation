@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WindCentaurAnimator
+  m_Controller: {fileID: 9100000, guid: 24549d542ef1a1e4884c9d40295710f4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 28663d108326a46488093866c0db835d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7600a28d9ca907a49962d417dbf5b642, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40d264da04879bd49bb10c059246ee66, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 028c718f8e304454baa75803a20f7d0f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 711ecaf44805eaf41af8083348fe4af2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 070a0a00de8d6134cb0e30dfff3977e9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ad667b8e3dacf2b43bde60e2e8d48d94, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8504a211b63d586468bf8a615d1caed8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 71faa56a37d38c745afd0aeafc2c96f0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0fcb04fc38de6de4d9fac40231ecac90, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 576d01346e0133f41b23c788bd056d9c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5cb0a6edcff1af34294ac2c544e27416, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0199100b1b728dd4a9c50f323b4ca927, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8677cfae99fad847bfe740597e93a90, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c3599287a5bd584bacab52eac41777e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6449f5fca9e19e743b7302e3e87431db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59c22bbd53a6922499aa95c905c4648e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 80d2252ae4b94ca46a127077a230559c, type: 2}

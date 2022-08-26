@@ -1,0 +1,329 @@
+Monster SpritePlacement (used for coloring, cuz rip shaders&shadergraph in my vers, do replace with shaders to win space + user easiness)
+=======================
+
+Hollow
+	Run:
+		Run0
+			50 220
+			243 322
+		Run1
+			374 220
+			243 322
+		Run2
+			668 205
+			320 322
+	
+	Hit:
+		Hit0
+			180 91
+			228 316
+		Hit1
+			558 129
+			228 321
+	
+	MeleeAttack:
+		Melee0
+			64 149
+			316 316
+		Melee1
+			450 147
+			316 317
+		Melee2
+			806 142
+			317 316
+			
+
+Centaur
+	Charge:
+		Charge0
+			29 153
+			394 291
+		Charge1
+			485 139
+			401 318
+		Charge2
+			922 143
+			403 307
+		Charge3
+			1358 146
+			366 303
+			
+	Hit:
+		Hit0
+			134 101
+			305 353
+		Hit1
+			516 101
+			333 386
+	
+	Idle:
+		Idle0
+			32 100	//7 100
+			260 307	//310 307
+		Idle1
+			389 100	//367 100
+			260 307	//304 307
+	
+	Melee:
+		Melee0
+			186 119
+			343 328
+		Melee1
+			874 100
+			357 387
+		Melee2
+			1493 60
+			334 480
+	
+	Run:
+		Run0
+			58 142	//22 142
+			360 282	//432 282
+		Run1
+			709 143	//678 143
+			386 287	//447 287
+		Run2
+			1374 136//1331 136
+			332 294	//416 294
+		Run3
+			1978 148//1921 148
+			324 294	//433 294
+			
+Cyclops
+	Idle:
+		Idle0
+			178 70
+			202 452
+		Idle1
+			521 97
+			210 458
+	Run:
+		Run0
+			32 67
+			267 448
+		Run1
+			462 79
+			262 437
+		Run2
+			852 93
+			361 403
+		Run3
+			1278 8
+			259 409
+	MeleeAttack:
+		Attack0
+			337 0
+			311 465
+		Attack1
+			704 0
+			315 465
+		Attack2
+			1141 0
+			541 460
+	GroundHit:
+		Hit0
+			0 74
+			269 454
+		Hit1
+			269 46
+			292 451
+	RangedAttack:
+		Ranged0
+			65 0	//48 0
+			449 460	//483 460
+		Ranged1
+			550 38
+			521 525
+		Ranged2
+			1076 0
+			424 458
+	RangedAttackFinish:
+		Ranged0
+			242 98
+			431 502
+		Ranged1
+			684 83
+			316 466
+	
+
+Harpy
+	Corpse:
+		129 149
+		316 207
+	Dying:
+		102 0
+		277 346
+	Hit:
+		415 154
+		429 263
+	Idle:
+		128 61
+		290 310
+	Run:
+		Run0
+			113 573
+			297 308
+		Run1
+			96 99
+			296 328
+		Run2
+			594 165
+			301 201
+		Run3
+			1049 166
+			301 188
+	SpinAttack2:
+		Spin1
+			170 24
+			616 359
+		Spin2
+			1216 0
+			741 421
+	
+	
+Minotaur
+	Charge:
+		Charge0
+			195 79
+			410 434
+		Charge1
+			793 63
+			384 421
+		Charge2
+			1275 82
+			394 446
+		Charge3
+			1853 50
+			295 436
+	Falling:
+		Falling0
+			74 0	//68 0
+			340 555	//346 562
+	Hit:
+		Hit0
+			292 68
+			429 427
+		Hit1
+			692 59
+			368 437
+	Idle:
+		Idle0
+			146 97
+			273 431
+		Idle1
+			452 77
+			281 432
+	Jump:
+		Jump0
+			283 26
+			343 435
+		Jump1
+			672 127
+			367 438
+		Jump2
+			1046 175
+			367 425
+	Melee:
+		Melee0
+			343 22
+			459 537
+		Melee1
+			1052 0
+			274 585
+		Melee2
+			1534 75
+			412 440
+	Ranged:
+		Ranged0
+			320 71
+			474 443
+		Ranged1
+			2271 43
+			271 503
+	Run:
+		Run0
+			28 77
+			465 475
+		Run1
+			499 77
+			465 441
+		Run2
+			1019 48
+			379 441
+		Run3
+			1411 51
+			358 441
+		Run4
+			1857 22
+			358 457
+		Run5
+			2417 0
+			387 501
+	
+
+Satyr
+	Hit:
+		634 118
+		230 347
+	Idle:
+		332 85
+		174 413
+	Jump:
+		Jump0
+			193 63
+			298 433
+		Jump1
+			616 63
+			298 433
+		Jump2
+			962 92
+			298 386
+		Jump3
+			1277 46
+			278 478
+		Jump4
+			1572 97
+			298 422
+		Jump5
+			1867 97
+			298 422
+	Run:
+		Run0
+			170 90
+			187 380
+		Run1
+			574 74
+			187 396
+		Run2
+			960 90
+			219 380
+		Run3
+			1285 84
+			302 386
+		Run4
+			1660 59
+			252 408
+		Run5
+			2093 79
+			252 335
+			
+Spikeboi
+	Corpse
+		154 241
+		274 189
+	Hit
+		214 216
+		258 198
+	Midair
+		170 211
+		233 268
+	Run
+		Run0
+			78 345
+			242 207
+		Run1
+			307 105
+			236 201
+//Misc
+
+Black Eyes for lvl 3 cyclopses?

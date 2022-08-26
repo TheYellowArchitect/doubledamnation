@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: dc7b7117f2930154b95d7cbedc9ab919
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SmallLeafTrees_0_0
+    21300002: SmallLeafTrees_0_1
+    21300004: SmallLeafTrees_0_2
+    21300006: SmallLeafTrees_1_0
+    21300008: SmallLeafTrees_1_1
+    21300010: SmallLeafTrees_1_2
+    21300012: SmallLeafTrees_2
+    21300014: SmallLeafTrees_3_0
+    21300016: SmallLeafTrees_3_1
+    21300018: SmallLeafTrees_3_2
+    21300020: SmallLeafTrees_4_0
+    21300022: SmallLeafTrees_4_1
+    21300024: SmallLeafTrees_4_2
+    21300026: SmallLeafTrees_5_0
+    21300028: SmallLeafTrees_5_1
+    21300030: SmallLeafTrees_5_2
+    21300032: SmallLeafTrees_6_0
+    21300034: SmallLeafTrees_6_1
+    21300036: SmallLeafTrees_6_2
+    21300038: SmallLeafTrees_7_0
+    21300040: SmallLeafTrees_7_1
+    21300042: SmallLeafTrees_7_2
+    21300044: SmallLeafTrees_8_0
+    21300046: SmallLeafTrees_8_1
+    21300048: SmallLeafTrees_8_2
+    21300050: SmallLeafTrees_9_0
+    21300052: SmallLeafTrees_9_1
+    21300054: SmallLeafTrees_9_2
+    21300056: SmallLeafTrees_10_0
+    21300058: SmallLeafTrees_10_1
+    21300060: SmallLeafTrees_11_0
+    21300062: SmallLeafTrees_11_1
+    21300064: SmallLeafTrees_11_2
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallLeafTrees_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 123
+        height: 206
+      alignment: 9
+      pivot: {x: 0.855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6f3c70fbe398b4eb26465c6a9b210c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_0_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 570
+        width: 121
+        height: 206
+      alignment: 9
+      pivot: {x: 0.855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d85c33488e2354e851d40618b65284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_0_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 570
+        width: 122
+        height: 206
+      alignment: 9
+      pivot: {x: 0.855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20bca5c1152d1c4c8546d8862c7edac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_1_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 561
+        width: 145
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64686248deca38d4a9a4a5a631d1fb38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_1_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 561
+        width: 145
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9791f07f9c7147bc1b3e099b5aeb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_1_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 561
+        width: 145
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7c2945a70399478e3440a1c529e88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 589
+        width: 122
+        height: 187
+      alignment: 9
+      pivot: {x: 0.86, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba8e40e77f3e94888644113cf36bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_3_0
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 611
+        width: 122
+        height: 165
+      alignment: 9
+      pivot: {x: 0.86, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0306c6edc8403d4b9458c868703d0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_3_1
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 611
+        width: 121
+        height: 165
+      alignment: 9
+      pivot: {x: 0.86, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3b1e3f909f9e45b385934f039a905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_3_2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 611
+        width: 121
+        height: 165
+      alignment: 9
+      pivot: {x: 0.86, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363aa873f1b1b2b45a62677af0fe3e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_4_0
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 614
+        width: 107
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac51a324b95da44197ae55b5a0fe677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_4_1
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 614
+        width: 107
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490b015fdd0a93439422b0ade3ef2cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_4_2
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 614
+        width: 108
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89f79f38550f74096a98aa778dc758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 126
+        height: 248
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91bd4979355fa4fb6cdde9fda92f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_5_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 303
+        width: 126
+        height: 248
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae1f3609314dd4594532c6150606bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_5_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 125
+        height: 247
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2a0a3d8990f84986da6ea3fb846a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_6_0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 283
+        width: 143
+        height: 249
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81c19053a90e5841b1dc21e2e827109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_6_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 283
+        width: 142
+        height: 249
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f47f5fada99749a753e70470e6ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_6_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 283
+        width: 142
+        height: 249
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22532d4ceea5893459db0bc0bb6a98fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_7_0
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 281
+        width: 143
+        height: 250
+      alignment: 9
+      pivot: {x: 0.445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d5892934285f4ca7dfdc29892686c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_7_1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 281
+        width: 141
+        height: 250
+      alignment: 9
+      pivot: {x: 0.445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f624f9741ce5744aa0d5e5b1f9ef41d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_7_2
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 281
+        width: 141
+        height: 249
+      alignment: 9
+      pivot: {x: 0.445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8e9f286c6ee84ca52b26b4b92a380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_8_0
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 268
+        width: 130
+        height: 247
+      alignment: 9
+      pivot: {x: 0.2, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271dd56cb18e7d04f9a9462b2580ea36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_8_1
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 268
+        width: 128
+        height: 246
+      alignment: 9
+      pivot: {x: 0.2, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fbe6b485bbaf44294dd29007546d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_8_2
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 268
+        width: 130
+        height: 246
+      alignment: 9
+      pivot: {x: 0.2, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258c44fedb7ff548ba8f50a504324ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 140
+        height: 264
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca4bda45216ba448d7e2f4ff6cbc12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_9_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 140
+        height: 263
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be40bdf3bbdaa4c9892d8c8bafaa0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_9_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 140
+        height: 264
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd90fd9761627c43a3942928bb8147b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_10_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 134
+        height: 263
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe416a9a6f4e1e84ba374549b14a68ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_10_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 134
+        height: 263
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3283b1e61b12d4e8923c4f780b2764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_11_0
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 137
+        height: 234
+      alignment: 9
+      pivot: {x: 0.305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ecfa22f286674b8454d62e9c9a4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_11_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1
+        width: 136
+        height: 235
+      alignment: 9
+      pivot: {x: 0.305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff495b2b41b5ed04fa9ba3e2430c8eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallLeafTrees_11_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 136
+        height: 234
+      alignment: 9
+      pivot: {x: 0.305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7d6031f44c5446856908410c380d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: beca870d5bf4a92408cb63ec7c90610f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

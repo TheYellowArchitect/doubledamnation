@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: d10f8f2445175234186a4981490c1d57
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Peukaki_0
+    21300002: Peukaki_1
+    21300004: Peukaki_3
+    21300006: BigLeafTree_0_0
+    21300008: BigLeafTree_0_1
+    21300010: BigLeafTree_0_2
+    21300012: BigLeafTree_1_0
+    21300014: BigLeafTree_1_1
+    21300016: BigLeafTree_1_2
+    21300018: Peuko_0
+    21300020: Peuko_1
+    21300022: Peuko_2
+    21300024: BigLeafTree_2_0
+    21300026: BigLeafTree_2_1
+    21300028: BigLeafTree_2_2
+    21300030: BigLeafTree_3_0
+    21300032: BigLeafTree_3_1
+    21300034: BigLeafTree_3_2
+    21300036: BigLeafTree_4_0
+    21300038: BigLeafTree_4_1
+    21300040: BigLeafTree_4_2
+    21300042: BigLeafTree_5_0
+    21300044: BigLeafTree_5_1
+    21300046: BigLeafTree_5_2
+    21300048: BigLeafTree_6_0
+    21300050: BigLeafTree_6_1
+    21300052: BigLeafTree_6_2
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peukaki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 36
+        height: 163
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb5cd24741e3d4c8461b8e00bc22f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peukaki_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 917
+        width: 36
+        height: 163
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab193c49902146a41a9d6ddd293d2616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peukaki_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 917
+        width: 36
+        height: 163
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6c68efdd97c34e868fa4700536c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_0_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 849
+        width: 210
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690eab98420fc9a41a7dc2f4e6265538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_0_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 849
+        width: 210
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52df82ebf2df74d99fac276f201391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_0_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 849
+        width: 210
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e3599fa6fca34ea4fb80a7adebe56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_1_0
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 888
+        width: 149
+        height: 160
+      alignment: 9
+      pivot: {x: 0.93, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a392663af5154dbf9125848180b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_1_1
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 887
+        width: 150
+        height: 160
+      alignment: 9
+      pivot: {x: 0.93, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836f3d6cf42e3345b25535c3f678561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_1_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 887
+        width: 149
+        height: 160
+      alignment: 9
+      pivot: {x: 0.93, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5781b2376a3a347bc87d4ea101bed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peuko_0
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 644
+        width: 73
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2250e25a78c0a9c4a93115f55f57a9ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peuko_1
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 644
+        width: 73
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13397a29b61c03f4caf5600ee1d5d218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peuko_2
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 643
+        width: 73
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0537cd62a7f9c149b3122c36e1ad234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 198
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b767ac1d99fc704ea2d13069c430f1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_2_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 517
+        width: 199
+        height: 311
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f636ea3aff881c4291e344063969c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_2_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 517
+        width: 201
+        height: 309
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab9ee98bfc41944a00c186c93ab7ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_3_0
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 547
+        width: 236
+        height: 290
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42837eac2176fa347adef59db894c16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_3_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 547
+        width: 235
+        height: 289
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de98e63efcf40d4bb50b00e28a15559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_3_2
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 547
+        width: 237
+        height: 289
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a6f1cbea866543b585ad9242ce04d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 172
+        height: 300
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b228519c307b0744aa63e8a5407d060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_4_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 170
+        height: 301
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760c3f90b9ce5147bd7fea00a745478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_4_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 175
+        width: 170
+        height: 301
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244b72224e181e34fa272fd8d0241f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_5_0
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 267
+        width: 253
+        height: 231
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d35bf051de9ce4593616253a1d7c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_5_1
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 267
+        width: 253
+        height: 231
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2e2e6d0de10842a774f36fdb35c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_5_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 267
+        width: 253
+        height: 230
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd4f976e169b640814783f24125025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_6_0
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 5
+        width: 208
+        height: 191
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e84325a856a104c8a8df324de838dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_6_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5
+        width: 208
+        height: 191
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40365acd543956d41a2cbae2b76317e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigLeafTree_6_2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 5
+        width: 208
+        height: 191
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd205601ac048f4282be1bad6686756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 309548024a67f2c4cbbee21011f36da5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
