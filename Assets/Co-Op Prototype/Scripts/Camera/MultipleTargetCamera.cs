@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//You better remake all of this code. What a spagghetti you have made. 
-//But at least you know how it should approximately work and the extent of the features and how they work together
-//tl;dr: Move the zooming in/out bs on its own class + fuck the async bs, and go for Update() logic.
+//MultipleSpagghettiCamera
+//tl;dr: Move the zooming in/out bs on its own class + dump the async bs, and go for Update() logic.
 //^Should work with all 3 "inputs" (Observe spellword, InfluenceX/Momentum, Cutscene)
 public class MultipleTargetCamera : MonoBehaviour
 {

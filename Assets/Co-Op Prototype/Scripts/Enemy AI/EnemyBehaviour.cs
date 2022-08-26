@@ -5,7 +5,6 @@ using UnityEditor;
 using UnityEngine;
 using NaughtyAttributes;
 
-//Physics for enemies be like: Velocity for X axis, Forces for Y axis.
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(EnemyPathfinder))]
 public class EnemyBehaviour : MonoBehaviour, IDamageable
