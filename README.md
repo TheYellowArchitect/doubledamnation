@@ -7,11 +7,11 @@ Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation
 ## Building from Source
 1. **Download&Install** Unity 2018.1.1f1 (Windows) [[1]](https://download.unity3d.com/download_unity/b8cbb5de9840/Windows64EditorInstaller/UnitySetup64-2018.1.1f1.exe) [[2]](https://unity3d.com/get-unity/download?thank-you=update&download_nid=51155&os=Win)
 
-2. **Open** Unity 2018.1.1f1 and open the folder you downloaded^
+2. **Open** Unity 2018.1.1f1 and open this repository's code
 <!---
 3. Open [`SteamManager.cs`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/Assets/Scripts/Steamworks.NET/SteamManager.cs#L10) and remove the '!' to build for non-Steam (aka local build)
 -->
-3. **Build** (yes, it's that simple. No dependencies either, just Unity 2018 is required)
+3. **Build**
 
 ## Contributing
 I welcome all pull requests that fix bugs, and refactor ugly parts of the code.
