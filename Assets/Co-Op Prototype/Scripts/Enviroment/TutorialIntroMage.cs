@@ -9,18 +9,22 @@ public class TutorialIntroMage : MonoBehaviour
 	private MageBehaviour mageBehaviour;
 
 	private float timeCurrent = 0f;
-	[Tooltip("8.1f is both voicelines, 4.5f is P2 only")]
+	[Tooltip("8.1f is both voicelines, 4.5f is P2 only")]//Tutorial
 	public float timeVoiceEnd = 8.1f;//When no voicelines, do VanishMage();
 
 	// Use this for initialization
 	void Start () 
 	{
-		warriorBehaviour = GameObject.FindGameObjectWithTag("Player").GetComponent<WarriorMovement>();
-		mageBehaviour = GameObject.FindGameObjectWithTag("Mage").GetComponent<MageBehaviour>();
+		warriorBehaviour = WarriorMovement.globalInstance;
+		mageBehaviour = MageBehaviour.globalInstance;
 
 		mageBehaviour.StartLevelCutsceneDialogue();
-		mageBehaviour.transform.position = mageBehaviour.GetLevelDialoguePositions().tutorialStart;
-		mageBehaviour.DetermineFlip();
+		if (LevelManager.currentLevel == 0)
+			mageBehaviour.transform.position = mageBehaviour.GetLevelDialoguePositions().tutorialStart;
+		else if (LevelManager.currentLevel == 1)
+			mageBehaviour.transform.position = mageBehaviour.GetLevelDialoguePositions().level1Start;
+			
+		mageBehaviour.transform.localScale = new Vector3(-1.4f, 1.4f, 1);
 
 		//Debug.Log("target position is: " + mageBehaviour.GetLevelDialoguePositions().tutorialStart);
 		if (GameObject.FindGameObjectWithTag("GameManager").GetComponent<DialogueManager>().skipMidCutsceneDialogue)
@@ -31,7 +35,7 @@ public class TutorialIntroMage : MonoBehaviour
 	{
 		//Warrior starts with facing left.
 		//Could have a callback on flip of warrior, but whatever.
-		if (warriorBehaviour.GetFacingLeft() == true)
+		if (LevelManager.currentLevel == 0 && warriorBehaviour.GetFacingLeft() == true)
 			VanishMage();
 
 		if (warriorBehaviour.GetHasMageJumped() == true)
@@ -45,7 +49,7 @@ public class TutorialIntroMage : MonoBehaviour
 	
 	public void OnTriggerExit2D(Collider2D collisionDetected)
 	{
-		//Debug.Log("Exited!");
+		Debug.Log("Exited!");
 		VanishMage();
 	}
 

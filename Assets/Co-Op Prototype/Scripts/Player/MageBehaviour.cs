@@ -363,6 +363,9 @@ public class MageBehaviour : MonoBehaviour
     //If not facing warrior, flip!
     public void DetermineFlip()
     {
+        //Race condition bug, when loaded from a level frame 1. Warrior behaviour's is previous level's
+        //Debug.Log("Local scale: " + transform.localScale.x + " and transform position.x: " + transform.position.x + " and warrior positionx: " + warriorBehaviour.transform.position.x);
+
         //If facing right and player is to the left, face left
         if (transform.localScale.x > 0 && transform.position.x > warriorBehaviour.transform.position.x)
             transform.localScale = new Vector3(-1.4f, 1.4f, 1);

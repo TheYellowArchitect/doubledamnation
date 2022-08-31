@@ -104,7 +104,7 @@ public class ToolSortDialogues
     {
         //This is the main folder Unity opens.
         //If your path is different (gotta change it manually lmao), note the final \ at the very end of the string !!!!!
-        string mainFolderPath = @"C:\Users\" + System.Environment.UserName + @"\Desktop\Unity\Double Damnation\Co-Op Prototype\46e\";
+        string mainFolderPath = @"C:\Users\" + System.Environment.UserName + @"\Desktop\Unity\DoubleDamnation\Co-Op Prototype\46e\";
 
         string targetPath = mainFolderPath + @"Assets\Co-Op Prototype\Sentences\" + language;
         string categoryPath;

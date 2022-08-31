@@ -7,7 +7,7 @@ public class TriggerMidCutscene : MonoBehaviour
     [Tooltip("Go at the MidCutscenesDialoguesContainer, and check the dialogues. Then find the dialogue you want from these, and put the number of it here.")]
     public int dialogueIndex;
 
-    private bool triggeredOnce = false;
+    public bool triggeredOnce = false;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

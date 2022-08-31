@@ -71,7 +71,7 @@ public class IntroManager : MonoBehaviour
         GameObject.FindGameObjectWithTag("GameManager").transform.GetChild(2).gameObject.GetComponent<MasterInputManager>().DisableInput();
 
         //Wait for cutscene to end, it should be as many seconds the voice clips together + the fade-in.
-        yield return new WaitForSeconds(18.6f);
+        yield return new WaitForSeconds(18f);
 
         //Debug.Log("Current level is: " + LevelManager.currentLevel);//-1
 
