@@ -1,0 +1,26 @@
+Total Lines of Code: 40496
+
+Folder Hierarchy
+================
+Camera: 1096
+EditorScripts: 308
+Enemy AI: 4992
+Enviroment: 1935
+Game Manager
+   FPS: 150
+   InputManager: 706
+   JSON: 1159
+   TAS Bot: 345
+   Unfoldered/Misc: 5656
+Interfaces: 16
+Level Manager: 4474
+MenuScripts: 1660
+Misc
+   Pillar: 578
+   Unfoldered/Misc: 1643
+Netcoding: 4513
+Player: 9066
+Scriptable Objects: 255
+Spells: 1451
+Timer Scripts: 207
+Word Scripts: 286
