@@ -25,8 +25,6 @@ If you are new to the project, I suggest you avoid the below classes, because th
 - [`MageBehaviour`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/Assets/Co-Op%20Prototype/Scripts/Player/MageBehaviour.cs)
 - [`MultipleTargetCamera`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/Assets/Co-Op%20Prototype/Scripts/Camera/MultipleTargetCamera.cs)
 
-## [Donations](https://theyellowarchitect.com/donate#title)
-
 ## Code-License
 The code I wrote is licensed under [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/), and is located under the folders [`Assets/Co-Op Prototype/Scripts`](https://github.com/TheYellowArchitect/doubledamnation/tree/master/Assets/Co-Op%20Prototype/Scripts) and [`Assets/Editor/Tools`](https://github.com/TheYellowArchitect/doubledamnation/tree/master/Assets/Editor/Tools) and [is always of filetype `.cs`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/LOC.txt)<br>
 There may be some code I did not write in the abovementioned path locations, but be ensured that whichever code I did not write myself, the proper author is credited (usually at the first lines)
