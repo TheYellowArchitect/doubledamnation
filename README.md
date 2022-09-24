@@ -18,7 +18,7 @@ Available on [Steam](https://store.steampowered.com/app/1015190/Double_Damnation
 ## Contributing
 I welcome all pull requests that fix bugs, and refactor ugly parts of the code.
 
-If you are new to the project, I suggest you avoid the below classes, because they are by far the most horrible and unreadable in the entire codebase. Even I who wrote them, am having difficulties with them, because they are bloated. That's what happens when you [write big systems without even knowing the basics](https://theyellowarchitect.com/blog/the-art-of-game-development-the-modern-polymath#title).
+If you are new to the project, I suggest you avoid the below classes, because they are by far the most horrible and unreadable in the entire codebase. Even I who wrote them, am having difficulties with them, because they are bloated. After all, [when I wrote the below systems, I didn't even know the basics](https://theyellowarchitect.com/blog/the-art-of-game-development-the-modern-polymath#title).
 
 - [`EnemyBehaviour`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/Assets/Co-Op%20Prototype/Scripts/Enemy%20AI/EnemyBehaviour.cs)
 - [`WarriorMovement`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/Assets/Co-Op%20Prototype/Scripts/Player/WarriorMovement.cs)
@@ -27,7 +27,7 @@ If you are new to the project, I suggest you avoid the below classes, because th
 
 ## Code-License
 The code I wrote is licensed under [GNU Public License Version 3](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/), and is located under the folders [`Assets/Co-Op Prototype/Scripts`](https://github.com/TheYellowArchitect/doubledamnation/tree/master/Assets/Co-Op%20Prototype/Scripts) and [`Assets/Editor/Tools`](https://github.com/TheYellowArchitect/doubledamnation/tree/master/Assets/Editor/Tools) and [is always of filetype `.cs`](https://github.com/TheYellowArchitect/doubledamnation/blob/master/LOC.txt)<br>
-There may be some code I did not write in the abovementioned path locations, but be ensured that whichever code I did not write myself, the proper author is credited (usually at the first lines)
+The only code I did not write in the abovementioned path locations, has the proper author credited at the first lines.
 
 ## Asset-License
 The tl;dr is that you can use most assets without permission **as long you don't monetize off them in ANY way.**
